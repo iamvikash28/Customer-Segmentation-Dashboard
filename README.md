@@ -4,8 +4,6 @@ A professional RFM-based Customer Segmentation Dashboard built in Power BI, repl
 ---
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](dashboard.html)
-
 The dashboard features:
 - 5 KPI cards with dynamic delta indicators
 - Revenue by Segment bar chart
